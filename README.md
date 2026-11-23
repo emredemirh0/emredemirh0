@@ -1,16 +1,13 @@
-## Hi there 👋
+# Merhaba, ben Emre 👋
 
-<!--
-**emredemirh0/emredemirh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Topkapı Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim ve Workintech Full Stack Web Developer programından mezunum. Web uygulamaları geliştiriyorum ve yeni teknolojiler öğrenmeyi seviyorum.
 
-Here are some ideas to get you started:
+### 🛠 Teknolojiler
+**Frontend:** HTML · CSS · JavaScript · React · Redux · Tailwind CSS
+**Backend:** Java · Spring Boot · Node.js · REST API
+**Veritabanı:** SQL · PostgreSQL
+**Araçlar:** Git · GitHub · VS Code · Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 İletişim
+- [LinkedIn](https://www.linkedin.com/in/emre-demir-954853431)
+- emredemirh0@gmail.com
